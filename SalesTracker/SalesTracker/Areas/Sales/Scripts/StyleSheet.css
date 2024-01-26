@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.navbar-inverse {
+    background-color: #000000;
+}
+
+    .navbar-inverse .navbar-nav > li > a {
+        color:darkred;
+        font-size:large;
+        font-family:'Arial Rounded MT';
+    }
