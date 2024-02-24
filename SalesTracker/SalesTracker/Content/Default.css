@@ -1,0 +1,22 @@
+﻿body {
+    background-color: #eeeeee;
+    text-align:center;
+}
+
+.container .card {
+    margin-top: 150px;
+    border-radius: 25px;
+}
+
+input {
+    margin: 10px;
+    border: none;
+    outline-color:gray;
+    background-color: #eeeeee;
+    padding: 5px 100px 5px 5px;
+    border-radius: 25px;
+}
+label{
+    float: left;
+    margin: 10px auto auto 50px;
+}

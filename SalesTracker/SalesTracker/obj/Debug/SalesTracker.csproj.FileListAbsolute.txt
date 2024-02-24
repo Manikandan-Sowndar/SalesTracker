@@ -69,7 +69,6 @@ D:\Projects\SalesTracker\SalesTracker\SalesTracker\bin\System.Web.WebPages.Razor
 D:\Projects\SalesTracker\SalesTracker\SalesTracker\bin\Newtonsoft.Json.xml
 D:\Projects\SalesTracker\SalesTracker\SalesTracker\bin\Antlr3.Runtime.pdb
 D:\Projects\SalesTracker\SalesTracker\SalesTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Projects\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.csprojAssemblyReference.cache
 D:\Projects\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.csproj.CoreCompileInputs.cache
 D:\Projects\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.csproj.CopyComplete
 D:\Projects\SalesTracker\SalesTracker\SalesTracker\obj\Debug\SalesTracker.dll

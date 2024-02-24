@@ -2,11 +2,61 @@
 }
 
 .navbar-inverse {
-    background-color: #000000;
+    background-image: url('../Content/navbar pattern1.png');
+    border-color: transparent;
 }
 
     .navbar-inverse .navbar-nav > li > a {
-        color:darkred;
-        font-size:large;
-        font-family:'Arial Rounded MT';
+        color: white;
+        font-size: medium;
+        font-family: inherit;
     }
+
+        .navbar-inverse .navbar-nav > li > a:hover,
+        .navbar-inverse .navbar-nav > li > a:focus {
+            color: #fff;
+            background-color: transparent;
+            border: solid;
+        }
+
+label {
+    color: #fff;
+}
+
+.user-pic {
+    float: right;
+}
+
+.icon {
+    border-radius: 50px;
+    padding-top: 3px;
+}
+
+a {
+    color: white;
+}
+
+    a:hover {
+        color: #fff;
+    }
+
+.bgchnpro {
+    background-color: rgba(239, 239, 239, 0.70);
+}
+
+.font {
+    font-family: Arial;
+}
+
+.slides {
+    max-height: 30vh;
+}
+
+.outlinenone {
+    outline: none;
+    border: none;
+    background-color: #eaeaea;
+    border-radius: 25px;
+    padding:5px;
+    margin:10px;
+}

@@ -11,6 +11,8 @@ namespace SalesTracker.Areas.Sales.Controllers
         // GET: Sales/SalesTracker
         public ActionResult Index()
         {
+            Session["Username"] = "Admin";
+
             return View();
         }
 
@@ -22,6 +24,17 @@ namespace SalesTracker.Areas.Sales.Controllers
 
         // Report
         public ActionResult Report()
+        {
+            return View();
+        }
+
+        public ActionResult ChangeProfile()
+        {
+            Session["Profile"] = "~/Areas/Sales/Content/userPic.jpg";
+            return View();
+        }
+
+        public ActionResult ChangePassword()
         {
             return View();
         }
